@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="HiddenCam banner" width="100%">
+  <img src="banner.png" alt="Filament" width="100%">
 </p>
 ## Filament
 
