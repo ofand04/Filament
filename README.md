@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Filament" width="100%">
-</p>
-
 ## Filament
 
 Filament is a visual brainstorming application for creating, organizing, and connecting ideas.
