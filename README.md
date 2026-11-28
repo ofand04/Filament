@@ -1,10 +1,21 @@
+<p align="center">
+  <img src="banner.png" alt="HiddenCam banner" width="100%">
+</p>
 ## Filament
 
 Filament is a visual brainstorming application for creating, organizing, and connecting ideas.
 
-Building from source
+## Screenshots
 
-## Requirements
+<p align="center">
+  <img src="screenshots/1.jpg" width="48%" alt="HiddenCam screenshot 1" />
+  <img src="screenshots/2.jpg" width="48%" alt="HiddenCam screenshot 2" />
+</p>
+<p align="center">
+  <img src="screenshots/3.jpg" width="48%" alt="HiddenCam screenshot 3" />
+  
+
+## Requirements to build from source
 
 - Git
 - Node.js 22 or later
